@@ -1,4 +1,4 @@
-# Ch3f_Bot V1
+# Ch3f_Bot V2
 
 ## Another Minecraft Bot 
 Based on experiences i did with the [world border travel bot] to reach worlborder on 2B2t and [chefbot_1] the new ch3fbot_V2 is now online.
@@ -49,6 +49,6 @@ So there is always a chance getting banned, be kind to the bots. Contact the dev
    [InfluxDB]: <https://www.influxdata.com/products/influxdb-cloud/>
    [Grafana]: <https://grafana.com/>
    [in Discord ch3fh3tz#0964]: <ch3fh3tz#0964>
-   [chefbot_2]: <https://github.com/h3tz/ch3fbot_V2>
-   [chefbot_1]: <https://github.com/h3tz/Ch3f_Bot-V1>
+   [ch3fbot_V2]: <https://github.com/h3tz/ch3fbot_V2>
+   [Ch3f_Bot-V1]: <https://github.com/h3tz/Ch3f_Bot-V1>
    

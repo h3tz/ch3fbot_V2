@@ -29,7 +29,7 @@ Conversation
 
 
 ## Tech
-The V1 bots are based mineflayer and snippets from  [chefbot_1]
+The V2 bots are based on mineflayer and snippets from  [chefbot_1]
 Statistics are collected from a [InfluxDB] cloud storage and visualized for the public with [Grafana].
 
 ## Bans

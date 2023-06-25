@@ -1,7 +1,7 @@
 # Ch3f_Bot V2
 
 ## Another Minecraft Bot 
-Based on experiences i did with the [world border travel bot] to reach worlborder on 2B2t and [chefbot_1] the new ch3fbot_V2 is now online.
+Based on experiences i did with the [world border travel bot] to reach worlborder on 2B2t and [Ch3f_Bot-V1] the new ch3fbot_V2 is now online.
 
 Freatures 
 * TPA: Accept TPA request if player is not on ban list
@@ -29,7 +29,7 @@ Conversation
 
 
 ## Tech
-The V2 bots are based on mineflayer and snippets from  [chefbot_1]
+The V2 bots are based on mineflayer and snippets from  [Ch3f_Bot-V1]
 Statistics are collected from a [InfluxDB] cloud storage and visualized for the public with [Grafana].
 
 ## Bans
